@@ -6,3 +6,4 @@
 /files/*
 /docs/*
 /vendor/**
+/deployments/Vagrant/.vagrant
